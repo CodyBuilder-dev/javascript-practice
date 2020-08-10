@@ -4,10 +4,11 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+const indexRouter = require('./routes/index');
+const usersRouter = require('./routes/users');
 const formRouter = require("./routes/form");
 const mysqlRouter = require("./routes/mysql");
+const boardRouter = require("./routes/board");
 
 var app = express();
 
@@ -26,6 +27,7 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use("/form",formRouter);
 app.use("/mysql",mysqlRouter);
+app.use("/board",boardRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

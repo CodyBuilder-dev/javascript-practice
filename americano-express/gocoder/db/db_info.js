@@ -1,4 +1,5 @@
-module.exports = function() {
+// (function{})(); 구문 알지? 익명함수를 바로 실행시키는 구문
+module.exports = (function() {
     return {
         local:{
             host:'localhost',
@@ -29,4 +30,4 @@ module.exports = function() {
             database:""
         },
     }
-};
+})();
