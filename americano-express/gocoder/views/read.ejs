@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+  </head>
+  <body>
+    <h1><%= title %></h1>
+
+    <form action="/board/update" method="post">
+        <table border=1>
+            <input type="hidden" name="idx" value="<%= row.idx %>">
+            <tr>
+                <th>작성자</th>
+                <td><input type="text" name="name" id="name" value="<%= row.name %>" required></td>
+            </tr>
+            <tr>
+                <th>제목</th>
+                <td><input type="text" name="title" id="title" value="<%= row.title %>" required></td>
+            </tr>
+            <tr>
+                <th>내용</th>
+                <td><textarea name="content" id="content" rows=10 cols=10 required><%= row.content %></textarea></td>
+            </tr>
+            <tr>
+                <th>패스워드</th>
+                <td><input type="password" name="passwd" id="passwd" value="<%= row.title %>" required></td>
+            </tr>
+            <tr>
+                <td>등록일</td>
+                <td><%= row.regdate %></td>
+            </tr>
+            <tr>
+                <td>조회수</td>
+                <td><%= row.hit %></td>
+            </tr>
+            <tr>
+                <td colspan=2>
+                    <button type="submit">글 수정</button>
+                    <button type="submit" formaction="/board/delete">글 삭제</button>
+                    <a href="/board/list">목록으로</a>
+                </td>
+            </tr>
+        </table>
+    </form>
+  </body>
+</html>
