@@ -12,6 +12,12 @@
 ### JavaScript
 |분류|항목|링크|
 |---|---|---|
+|Javascript|자바스크립트에서 JSON 파싱|[링크](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)|
+|Javascript|브라우저의 document에 요소 생성 및 append|[링크](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)|
+|Javascript|브라우저 객체 내에 Event Listener 연결|[링크](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)|
+|Javascript|브라우저에서 외부 텍스트파일 읽어오기|[링크](http://www.gisdeveloper.co.kr/?p=5566)|
+|Javascript|브라우저에서 엑셀파일 읽어오기|[링크](http://www.gisdeveloper.co.kr/?p=8987)|
+|Javascript|브라우저에서 CSV 파싱하기|[링크](https://www.it-swarm.dev/ko/javascript/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95-csv-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/940034312/)<br>[링크](https://sweetpotatocat.tistory.com/5)|
 
 ### jQuery/Ajax
 |분류|항목|링크|
