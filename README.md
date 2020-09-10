@@ -12,13 +12,15 @@
 ### JavaScript
 |분류|항목|링크|
 |---|---|---|
-|Javascript|자바스크립트에서 JSON 파싱|[링크](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)|
-|Javascript|브라우저의 document에 요소 생성 및 append|[링크](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)|
-|Javascript|브라우저 객체 내에 Event Listener 연결|[링크](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)|
+|Javascript|브라우저의 document에 요소 생성 및 append|[링크](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)<br>[document.append 대신 document.body.append](https://stackoverflow.com/questions/41303634/failed-to-execute-appendchild-on-node-only-one-element-on-document-allowed)|
+|Javascript|객체 내에 텍스트 집어넣기|[링크](https://stackoverflow.com/questions/41764061/adding-text-to-an-existing-text-element-in-javascript-via-dom)|
+|Javascript|브라우저 객체 내에 Event Listener 연결|[링크](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)<br>[링크](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)|
 |Javascript|브라우저에서 외부 텍스트파일 읽어오기|[링크](http://www.gisdeveloper.co.kr/?p=5566)|
 |Javascript|브라우저에서 엑셀파일 읽어오기|[링크](http://www.gisdeveloper.co.kr/?p=8987)|
+|Javascript|브라우저에서 JSON 파싱하기|[JSON](https://ithub.tistory.com/54)<br>[링크](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)|
 |Javascript|브라우저에서 CSV 파싱하기|[링크](https://www.it-swarm.dev/ko/javascript/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95-csv-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/940034312/)<br>[링크](https://sweetpotatocat.tistory.com/5)|
-
+|Javascript|브라우저에서 XPath로 선택하기|[링크](https://developer.mozilla.org/ko/docs/Introduction_to_using_XPath_in_JavaScript)<br>[링크](https://sensitivity-dev.tistory.com/21|
+|Javascript|자바스크립트에서 한글 깨질 때|[링크](https://lookingfor.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B9%A8%EC%A7%80%EB%8A%94-%EA%B2%BD%EC%9A%B0-encode-decode)|
 ### jQuery/Ajax
 |분류|항목|링크|
 |---|---|---|
