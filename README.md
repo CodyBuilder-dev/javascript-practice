@@ -27,7 +27,9 @@
 |Javascript|브라우저에서 CSV 파싱하기|[링크](https://www.it-swarm.dev/ko/javascript/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95-csv-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/940034312/)<br>[링크](https://sweetpotatocat.tistory.com/5)|
 |Javascript|브라우저에서 XPath로 선택하기|[링크](https://developer.mozilla.org/ko/docs/Introduction_to_using_XPath_in_JavaScript)<br>[링크](https://sensitivity-dev.tistory.com/21|
 |Javascript|자바스크립트에서 한글 깨질 때|[링크](https://lookingfor.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%95%9C%EA%B8%80-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B9%A8%EC%A7%80%EB%8A%94-%EA%B2%BD%EC%9A%B0-encode-decode)|
-|Javascript|XML 파싱 라이브러리|[DOMParser](https://cofs.tistory.com/11)|
+|Javascript|XML 파싱방법|[직렬화&반직렬화](https://developer.mozilla.org/ko/docs/Web/Guide/XML_%ED%8C%8C%EC%8B%B1_%EB%B0%8F_%EC%A7%81%EB%A0%AC%ED%99%94)<br>[DOMParser](https://cofs.tistory.com/11)|
+
+
 ### jQuery/Ajax
 |분류|항목|링크|
 |---|---|---|
@@ -36,6 +38,8 @@
 ### Node.js
 |분류|항목|링크|
 |---|---|---|
+|Node.js|XML 파싱하기|[링크](https://sarc.io/index.php/miscellaneous/316-node-js-xml2js-xml-parse-2)|
+|Node.js|npm 글로벌 패키지 환경변수 설정|[링크](https://ondemand.tistory.com/240)|
 
 ### Express.js
 |분류|항목|링크|
