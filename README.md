@@ -30,10 +30,16 @@
 |Javascript|XML 파싱방법|[직렬화&반직렬화](https://developer.mozilla.org/ko/docs/Web/Guide/XML_%ED%8C%8C%EC%8B%B1_%EB%B0%8F_%EC%A7%81%EB%A0%AC%ED%99%94)<br>[DOMParser](https://cofs.tistory.com/11)|
 
 
-### jQuery/Ajax
+### Ajax
 |분류|항목|링크|
 |---|---|---|
+|Ajax|Ajax 개념 이해|[링크](https://coding-factory.tistory.com/143)|
+|Ajax|XMLHttpRequest 객체|[링크](https://developer.mozilla.org/ko/docs/Web/API/XMLHttpRequest)|
 |Ajax|Ajax 기본 문법|[링크](https://doolyit.tistory.com/20)|
+
+### jQuery
+|분류|항목|링크|
+|---|---|---|
 
 ### Node.js
 |분류|항목|링크|
